@@ -1,0 +1,55 @@
+﻿{
+  "tag": "&&",
+  "tags": "Blancos",
+  "tags2": "blancos",
+  "tags3": "&&&&&",
+  "tags4": "&&&&&&&&&&",
+  "tags5": "&&&&&&&&",
+  "tags6": "!!",
+  "tags7": "()",
+  "etikets": "1928",
+
+
+  "ekipRolu": ["1026104838674714655"],
+  "teyitciRolleri": ["1023285582186676246"],
+  "unregRoles": ["1026104850720751737"],
+  "boosterRolu": "945761792846626866",
+  "staffs": ["1020455378389049437"],
+
+  "rankLog": "969760771301060728",
+  "ticketdestek": "880371771814060052",
+
+  "BaşvuruKategoryID":"945476169787142215",
+    "BasvuruKomutKullanımKanalı":"990287552768507944",
+    "BaşvuruDurumLog": "990287552768507944",
+    "BaşvuruLogChannelID":"990287552768507944",
+    "ÖneriİstekChannelID":"995603236234997770",
+    "SikayetChannelID":"995603234162999296",
+
+
+  
+  "chatChannel": "906066849085653012",
+  "invLogChannel": "1026104930592890900",
+  
+  "nsfwlog" : "nsfw-log", 
+  "komutLog" : "komutLog", 
+  "rollogchannel": "rollogchannel",
+  "voiceLogChannel": "voicelogchannel",
+  "messageLogChannel": "messagelogchannel",
+  "mutelog": "mute-log",
+  "unmutelog": "unmute-log",
+  "unjaillog": "unjail-log",
+  "jaillog": "jail-log",
+  "banlog": "ban-log",
+  "unbanlog": "unban-log",
+  "sesmutelog": "ses-mute-log",
+
+  "publicParents": ["989193753615040613"],
+  "privateParents": ["945760988836282377"], 
+  "aloneParents": [ "945760989301841976"], 
+  "funParents": ["945760987833847883"], 
+  "registerParents": ["945760986411991143"], 
+  "solvingParents": ["923331952549978166"]
+
+
+}
